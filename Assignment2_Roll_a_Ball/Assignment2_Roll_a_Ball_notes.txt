@@ -1,0 +1,40 @@
+Additions:
+-oversize ball (x)
+-pause game (x)
+-three scenes (x)
+-slider for game speed (x)
+-different colors for ball using dropdown (x)
+
+Hello,
+This is the second game development project, mainly incorporating the project "Roll-a-Ball."
+
+We were assigned to add several different features on our games including:
+- A toggle to "oversize the ball," enlarging the player sphere.
+- A slider to change the speed of the player
+- A dropdown to change the color of the player sphere
+- A pause menu that pauses the game.
+- And to Add 2 additional scenes, making it 3 in total.
+
+As required, I have 3 scenes total. However, the first scene has two panels.
+
+The first panel is simply the "welcome" panel while the second panel is the "options" panel. 
+
+Pressing the Oversize Ball? toggle changes the size of the sphere from being normal or large. 
+
+The Game Speed slider has a range from 1 to 5, representing the speed values of the player.
+
+And as expected, the dropdown has a selection of colors for the ball.
+
+To access the data from this scene to the next, I used PlayerPrefs variables to save the settings to be used during the game.
+
+Now it's time to play the game!
+
+If I press the "Escape Key," then it brings up a pause menu, which has buttons to Resume, Return to Menu, or to Quit the game entirely. Pressing Escape also goes back to the game.
+
+Now lets complete the objective!
+
+Nice! This is the final scene, presenting options to either return to the first scene or to quit the game.
+
+Let's restart and show off some of the other settings. Let's change the color, the size, and the speed.
+
+There we go! And that is the roll a ball game.
